@@ -1,6 +1,6 @@
 import requests
 
-from custom_nodes.DTGlobalVariables import variables
+from custom_nodes.DTAIComfyVariables import variables
 
 class DTCLIPTextEncode:
     @classmethod
